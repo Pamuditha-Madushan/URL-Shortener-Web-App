@@ -5,10 +5,6 @@ import connectDB from "./config/db";
 import errorHandler from "./middlewares/errorHandler";
 import urlRoutes from "./routes/urlRoutes";
 
-// const express = require("express");
-// const dotenv = require("dotenv");
-// const connectDB =  require("./config/db")
-
 const app = express();
 dotenv.config();
 
