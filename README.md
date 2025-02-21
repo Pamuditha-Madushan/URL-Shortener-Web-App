@@ -1,8 +1,8 @@
-# URL-Shortener--Node-JS-
+# URL-Shortener-Web-Application
 
-# Built-using-Node-JS-with-Typescript-with-ESM-&-MVC-involved.
+# Built-using-Node-JS-with-Express-JS-with-Typescript-&-Mongo-DB-involved.
 <<<<<<< HEAD
 
-# Visit-developer-branch-to-have-a-look.
+# Visit-main-branch-to-have-a-look.
 =======
->>>>>>> developer
+>>>>>>> main
